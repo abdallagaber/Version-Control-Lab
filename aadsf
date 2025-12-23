@@ -1,0 +1,20 @@
+[33mcommit 9f57c972467556d9aadb127792b584fc1d4b3963[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ‘khaledAlssadny’ <‘khaledgmal517@gmail.com’~>
+Date:   Tue Dec 23 09:19:57 2025 +0200
+
+    second push
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex dee4adc..968da7b 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -15,7 +15,8 @@[m
+       <li>Ahmed Ebrahim Morsy</li>[m
+       <li>Mahmoud Reda Hassan</li>[m
+       <li>Khaled Gamal Morsy</li>[m
+[31m-	    <li>Mahmoud Abdelkader Ibrahim</li>[m
+[32m+[m[32m      <li>Khaled Gamal Morsy</li>[m
+[32m+[m[32m      <li>Mahmoud Abdelkader Ibrahim</li>[m
+     </ul>[m
+   </body>[m
+ </html>[m
